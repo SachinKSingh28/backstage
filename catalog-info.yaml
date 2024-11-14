@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Domain
 metadata:
-  name:   Some Domain
+  name: something
   description: A collection of all Backstage domains
   labels:
-    name:  Some Domain
+    name: something
     sys_id: bf4758d10f395200810f70c792050e75
     
 spec:
